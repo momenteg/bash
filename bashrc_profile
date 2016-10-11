@@ -15,7 +15,7 @@ alias ..="cd ../"
 #alias .5="cd ../../../../../"
 #alias .6="cd ../../../../../../"
 alias c="clear"
-alias notebook="ipython notebook"
+alias notebook="ipython notebook --matplotlib"
 
 #hostinfo
 PS1='\[\e[0;30m\]\u@\h\[\e[00m\]:\[\e[01;34m\]\w\[\e[00m\]\$ '
