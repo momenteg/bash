@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+#! /usr/bin/python
+## Author: Giulio Momentè 
+## emails: momenteg@gmail.com / gmomente@icecube.wisc.edu
+
+import sys
+import glob
+import numpy as np
+import matplotlib.pyplot as plt
+import gc
+import datetime
+#import pandas as pd
+#from pandas import DataFrame, Series
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>python</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope> 
+</snippet>
+
+
